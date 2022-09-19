@@ -1,0 +1,15 @@
+Jaco, Manager, Jaco, No
+Jaco, Programmer, Task, No
+Jaco, Teller, Assign a new task, No
+Anel, 1 , 1, No
+Ansi, 2 , 1, No
+Anel, 3 , 1, No
+Ansi, 4 , 1, No
+Ansi, 3 , 1, No
+Piet, List, List the tasks, No
+admin, Register, Register new users using the task_manager.py program, No
+admin, Assign, Assign tasks using the task_manager.py program, No
+Piet, Customer service, Assist customers with queries, No
+Piet, Skryf, Skryf Woorde, No
+Paul, Lees, Lees Boeke, No
+Paul, Sing, Sing liedjies, No

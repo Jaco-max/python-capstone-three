@@ -1,0 +1,11 @@
+admin, adm1n
+password, passw0rd
+login, l0gin
+Jaco, 123
+adminn, adminn
+JacoBuys, @1234
+Piet, @123
+Jacobas, 123@
+Pieter, Pieter
+Paul, Paul
+e, e
