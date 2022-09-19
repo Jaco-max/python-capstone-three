@@ -1,2 +1,3 @@
 # python-capstone-three
-Third Capstone Project
+This is the third Capstone Project I did for HyperionDev. <br \>
+It covers Stringhandling and making use of textfiles in Python
